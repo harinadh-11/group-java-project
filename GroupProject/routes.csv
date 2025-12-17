@@ -1,0 +1,37 @@
+routeId,source,destination,distanceKm
+R001,Vijayawada,Srikakulam,448
+R002,Vijayawada,Vizianagaram,398
+R003,Vijayawada,Visakhapatnam,361
+R004,Vijayawada,Anakapalli,314
+R005,Vijayawada,Parvathipuram Manyam,488
+R006,Vijayawada,Alluri Sitharama Raju,252
+R007,Vijayawada,Bapatla,84
+R008,Vijayawada,Dr. B.R. Ambedkar Konaseema (Amalapuram),182
+R009,Vijayawada,Kakinada,216
+R010,Vijayawada,Eluru,60
+R011,Vijayawada,Guntur,40
+R012,Vijayawada,Rajamundry,159
+R013,Vijayawada,Krishna (Machilipatnam),67
+R014,Vijayawada,Palnadu (Narasaraopet),96
+R015,Vijayawada,Prakasam (Ongole),155
+R016,Vijayawada,Sri Potti Sriramulu Nellore (Nellore),279
+R017,Vijayawada,West Godavari (Bhimavaram),138
+R018,Vijayawada,Ananthapuramu (Anantapur),482
+R019,Vijayawada,Annamayya (Rayachoti),436
+R020,Vijayawada,Chittoor,483
+R021,Vijayawada,YSR Kadapa (Kadapa),387
+R022,Vijayawada,Kurnool,348
+R023,Vijayawada,Nandyal,330
+R024,Vijayawada,Sri Sathya Sai (Puttaparthi area),522
+R025,Vijayawada,Tirupati,417
+R026,Vijayawada,Hyderabad,277
+R027,Vijayawada,Bengaluru,663
+R028,Vijayawada,Chennai,455
+R029,Vijayawada,Mumbai,1025
+R030,Vijayawada,New Delhi,1985
+R031,Vijayawada,Kolkata,1215
+R032,Vijayawada,Pune,842
+R033,Vijayawada,Ahmedabad,1471
+R034,Vijayawada,Bhubaneswar,774
+R035,Vijayawada,Thiruvananthapuram,1181
+R036,Vijayawada,Kochi,1094

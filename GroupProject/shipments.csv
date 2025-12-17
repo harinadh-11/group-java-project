@@ -1,0 +1,4 @@
+shipmentId,actualKg,lengthCm,widthCm,heightCm,routeId
+S1,14,60,40,30,R001
+S2,2,20,15,10,R002
+S3,800,200,120,150,R003
